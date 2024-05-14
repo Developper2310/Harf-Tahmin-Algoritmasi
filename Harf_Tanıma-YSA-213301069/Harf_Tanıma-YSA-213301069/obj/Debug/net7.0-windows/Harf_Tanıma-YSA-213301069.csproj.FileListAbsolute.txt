@@ -1,0 +1,16 @@
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\bin\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.exe
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\bin\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.deps.json
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\bin\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.runtimeconfig.json
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\bin\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.dll
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\bin\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.pdb
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma_YSA_213301069.Form1.resources
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.csproj.GenerateResource.cache
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.GeneratedMSBuildEditorConfig.editorconfig
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.AssemblyInfoInputs.cache
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.AssemblyInfo.cs
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.csproj.CoreCompileInputs.cache
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.dll
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\refint\Harf_Tanıma-YSA-213301069.dll
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.pdb
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\Harf_Tanıma-YSA-213301069.genruntimeconfig.cache
+F:\3. Sınıf\Dersler\Yapay Zeka\YSA\Harf_Tanıma-YSA-213301069\Harf_Tanıma-YSA-213301069\obj\Debug\net7.0-windows\ref\Harf_Tanıma-YSA-213301069.dll

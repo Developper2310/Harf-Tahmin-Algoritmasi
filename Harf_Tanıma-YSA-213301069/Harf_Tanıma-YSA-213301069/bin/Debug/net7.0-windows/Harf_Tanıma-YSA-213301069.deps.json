@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Harf_Tanıma-YSA-213301069/1.0.0": {
+        "runtime": {
+          "Harf_Tanıma-YSA-213301069.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harf_Tanıma-YSA-213301069/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

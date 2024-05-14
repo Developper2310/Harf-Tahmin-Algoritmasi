@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\3. Sınıf\\Dersler\\Yapay Zeka\\YSA\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069.csproj": {}
+  },
+  "projects": {
+    "F:\\3. Sınıf\\Dersler\\Yapay Zeka\\YSA\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\3. Sınıf\\Dersler\\Yapay Zeka\\YSA\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069.csproj",
+        "projectName": "Harf_Tanıma-YSA-213301069",
+        "projectPath": "F:\\3. Sınıf\\Dersler\\Yapay Zeka\\YSA\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069.csproj",
+        "packagesPath": "C:\\Users\\Yusuf Furkan Umutlu\\.nuget\\packages\\",
+        "outputPath": "F:\\3. Sınıf\\Dersler\\Yapay Zeka\\YSA\\Harf_Tanıma-YSA-213301069\\Harf_Tanıma-YSA-213301069\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yusuf Furkan Umutlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
