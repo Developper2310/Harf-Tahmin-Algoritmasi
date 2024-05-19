@@ -66,10 +66,12 @@ ModelYukle yöntemi, kaydedilmiş ağırlıkları dosyadan yükler.
 
 ![image](https://github.com/Developper2310/Harf-Tahmin-Algoritmasi/assets/130366798/23b593fd-0dc6-45f9-b32d-52c690eddb27)
 
-Kodun Detaylı İşleyişi
-Eğitim Verisi Hazırlığı: Kod, 5x7 piksellik harflerin ikili (0 ve 1) temsillerini eğitim verisi olarak kullanır.
-Rastgele Ağırlıkların Başlatılması: Ağırlıklar, rastgele küçük değerlerle başlatılır.
+Uygulamanın Özet İşleyişi
+Eğitim Verisi Hazırlığı: Kod, 5x7 piksellik harflerin ikili (0 ve 1) temsillerini eğitim verisi olarak kullanırve eğit butonuna tıklamanız ile oluşturduğu bir modeli eğitir.
+3 katman arasındaki ağırlıklar, rastgele küçük değerlerle başlatılır(-1 ve 1 arasında).
 İleri ve Geri Yayılım: İleri yayılımda, giriş verileri gizli katman ve çıkış katmanı boyunca iletilir. Geri yayılımda, elde edilen hatalar kullanılarak ağırlıklar güncellenir.
-Modelin Kaydedilmesi ve Yüklenmesi: Ağırlıklar, metin dosyalarına kaydedilir ve gerektiğinde bu dosyalardan tekrar yüklenebilir.
-Kullanıcı Etkileşimi: Kullanıcılar, panelde pikselleri işaretleyerek modelin harfi tanımasını sağlar. Eğitim ve değerlendirme işlemleri, düğmelere tıklanarak başlatılır.
-Bu kod, temel bir yapay sinir ağı modelinin nasıl oluşturulacağı, eğitileceği ve kullanılacağı konusunda iyi bir örnek teşkil eder.
+Modelin Kaydedilmesi ve Yüklenmesi: Ağırlıklar, dosyalarına kaydedilir ve gerektiğinde bu dosyalardan tekrar yüklenebilir.bu sayede beğendiğiniz modeli saklayabilirsiniz.
+Kullanıcılar, panelde pikselleri işaretleyerek modelin harfi tanımasını sağlar. Tahmin işlemleri, düğmelere tıklanarak başlatılır.
+Bu kod, temel bir yapay sinir ağı modelinin nasıl oluşturulacağı, eğitileceği ve kullanılacağı konusunda iyi bir örnektir.
+![image](https://github.com/Developper2310/Harf-Tahmin-Algoritmasi/assets/130366798/596713a4-7f26-4bd8-9b65-fd5e7f9d7709)
+
