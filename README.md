@@ -59,7 +59,7 @@ Model Değerlendirme (Degerlendir Yöntemi):
 
 Degerlendir yöntemi, kullanıcı tarafından panelde çizilen harfi test verisi olarak alır ve modelin bu harfi tanıyıp tanımadığını kontrol eder.
 Tanıma işlemi, ileri yayılım yöntemiyle yapılır ve sonuç kullanıcıya gösterilir.
-Ağırlıkların Kaydedilmesi ve Yüklenmesi:
+# Ağırlıkların Kaydedilmesi ve Yüklenmesi:
 
 Kaydet yöntemi, modelin ağırlıklarını dosyaya kaydeder.
 ModelYukle yöntemi, kaydedilmiş ağırlıkları dosyadan yükler.
