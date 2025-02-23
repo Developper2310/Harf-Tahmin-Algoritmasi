@@ -1,5 +1,5 @@
 # Yapay Sinir Ağları Nedir?
-Yapay Sinir Ağları (YSA), insan beynindeki sinir hücrelerinin (nöronlar) çalışma prensiplerinden esinlenerek oluşturulan bir makine öğrenmesi modelidir. Beynimizdeki nöronlar, elektrik sinyalleri aracılığıyla birbirleriyle iletişim kurar ve bilgiyi işler. Yapay sinir ağları da benzer şekilde, birçok yapay nöronun birbirine bağlanarak bilgiyi işlediği bir sistemdir. Bu ağlar, çok katmanlı yapıdan oluşur: bir giriş katmanı, bir veya daha fazla gizli katman ve bir çıkış katmanı. Her nöron, kendisine gelen sinyalleri alır, işler ve sonucunu sonraki katmandaki nöronlara iletir. Bu süreçte, nöronlar arasındaki bağlantıların (ağırlıkların) değerleri öğrenme süreciyle güncellenir ve böylece modelin doğruluğu artırılır. YSA'lar, görüntü tanıma, ses tanıma, doğal dil işleme gibi birçok alanda kullanılabilir.
+Yapay Sinir Ağları (YSA), insan beynindeki sinir hücrelerinin çalışma prensiplerinden esinlenerek oluşturulan bir makine öğrenmesi modelidir. Beynimizdeki nöronlar, elektrik sinyalleri aracılığıyla birbirleriyle iletişim kurar ve bilgiyi işler. Yapay sinir ağları da benzer şekilde, birçok yapay nöronun birbirine bağlanarak bilgiyi işlediği bir sistemdir. Bu ağlar, çok katmanlı yapıdan oluşur: bir giriş katmanı, bir veya daha fazla gizli katman ve bir çıkış katmanı. Her nöron, kendisine gelen sinyalleri alır, işler ve sonucunu sonraki katmandaki nöronlara iletir. Bu süreçte, nöronlar arasındaki bağlantıların (ağırlıkların) değerleri öğrenme süreciyle güncellenir ve böylece modelin doğruluğu artırılır. YSA'lar, görüntü tanıma, ses tanıma, doğal dil işleme gibi birçok alanda kullanılabilir.
 
 Kodun İşleyişi
 Proje, bir form uygulaması içinde harf tanıma işlevi gören bir yapay sinir ağı modelini içeriyor. Bu model, 5x7 boyutlarında piksellerden oluşan harfleri tanıyacak şekilde eğitiliyor ve vereceğiniz girişleri tahmin ediliyor. 
@@ -72,6 +72,6 @@ Eğitim Verisi Hazırlığı: Kod, 5x7 piksellik harflerin ikili (0 ve 1) temsil
 İleri ve Geri Yayılım: İleri yayılımda, giriş verileri gizli katman ve çıkış katmanı boyunca iletilir. Geri yayılımda, elde edilen hatalar kullanılarak ağırlıklar güncellenir.
 Modelin Kaydedilmesi ve Yüklenmesi: Ağırlıklar, dosyalarına kaydedilir ve gerektiğinde bu dosyalardan tekrar yüklenebilir.bu sayede beğendiğiniz modeli saklayabilirsiniz.
 Kullanıcılar, panelde pikselleri işaretleyerek modelin harfi tanımasını sağlar. Tahmin işlemleri, düğmelere tıklanarak başlatılır.
-Bu kod, temel bir yapay sinir ağı modelinin nasıl oluşturulacağı, eğitileceği ve kullanılacağı konusunda iyi bir örnektir.
+Bu uygulama yapay sinir ağları ile bilgisayarların nasıl tahmin yaptığını gösteren temel bir projedir. Bu algoritma birçok görüntü işleme, doğal dil işleme, makine öğrenmesi modelinin temelini oluşturmaktadır.
 ![image](https://github.com/Developper2310/Harf-Tahmin-Algoritmasi/assets/130366798/596713a4-7f26-4bd8-9b65-fd5e7f9d7709)
 
